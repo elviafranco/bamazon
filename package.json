@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Inventory management app for mock Amazon.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviafranco/bamazon.git"
+  },
+  "author": "Elvia Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elviafranco/bamazon/issues"
+  },
+  "homepage": "https://github.com/elviafranco/bamazon#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^6.5.0",
+    "mysql": "^2.17.1"
+  }
+}
